@@ -1,0 +1,12 @@
+name: webexample
+title: WebExample
+username: arnholtsr
+account: arnholtsr
+server: mathr.appstate.edu
+hostUrl: https://mathr.appstate.edu/connect/__api__
+appId: 48
+bundleId: 109
+url: https://mathr.appstate.edu/connect/content/5cc2d720-a267-487f-b752-dd4c370a6d01/
+version: 1
+asMultiple: FALSE
+asStatic: TRUE
